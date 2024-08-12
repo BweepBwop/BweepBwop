@@ -1,6 +1,12 @@
-<h2 align="left">Hi there Pardner!</h2>
+<h2 align="left">Hi there👋!</h2>
+
+###
 
 <h3 align="left">Some of the things I recently learned:</h3>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -20,13 +26,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
+###
+
+<br clear="both">
+
 <h3 align="left">About me:</h3>
+
+###
+
+<br clear="both">
 
 <p align="left">I am currently a student of computer engineering. I practice problem-solving skills on LeetCode, HackerRank and CTF challenges. I am a total beginner. I would love to learn more from experienced programmers!</p>
 
+###
+
+<br clear="both">
+
 <div align="center">
-  <img height="209" src="https://cdna.artstation.com/p/assets/images/images/030/828/406/original/tj-austria-kj.gif?1601786671"  />
+  <img height="300" src="https://cdna.artstation.com/p/assets/images/images/030/828/406/original/tj-austria-kj.gif?1601786671"  />
 </div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/aisha_urbanoo/" target="_blank">
@@ -37,25 +59,49 @@
   </a>
 </div>
 
-<h3 align="left">I'm currently:</h3>
-  <li>Creating a movie app using React Native</li>
-  <li>Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!</li>
-  <li>Working on my portfolio</li> 
-  <li>Working on our Capstone project</li> 
+###
 
-<h3 align="left">Some facts about me:</h3>
-
-<ul align="left">
-  <li>I play a lot of games</li>
-  <li>I draw too</li>
-  <li>I love playing badminton</li>
-</ul>
+<br clear="both">
 
 <div align="center">
-  <img align="right" height="250" src="https://media.giphy.com/media/jubLJwkWhtqmOA2bJg/giphy.gif"  />
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=BweepBwop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com?user=BweepBwop&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BweepBwop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="left">Currently working on:</h1>
+
+###
+
+<br clear="both">
+
+<h5 align="left">📘Creating a movie app using React Native<br>📕Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!<br>📙Working on my portfolio<br>📗Working on our Capstone project</h5>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Some facts about me:</h1>
+
+<br clear="both">
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 40%; padding-right: 20px;">
+      <img height="250" src="https://media.giphy.com/media/jubLJwkWhtqmOA2bJg/giphy.gif" style="width: 100%;" />
+    </td>
+    <td style="width: 60%; padding-left: 20px;">
+      <ul style="list-style-position: inside; margin: 0;">
+        <li>I play a lot of games</li>
+        <li>I play badminton</li>
+        <li>I draw :></li>
+        <li>I LOVEEE CHEMISTRY!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
