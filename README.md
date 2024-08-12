@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋!</h2>
+<h2 align="left">Hi there Pardner👋!</h2>
 
 ###
 
@@ -66,8 +66,6 @@
 ###
 
 <h3 align="left">Some facts about me:</h3>
-
-###
 
 <br clear="both">
 
