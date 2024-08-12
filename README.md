@@ -1,10 +1,6 @@
-<h2 align="left">Hi there Pardner👋!</h2>
-
-###
+<h2 align="left">Hi there Pardner!</h2>
 
 <h3 align="left">Some of the things I recently learned:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -24,25 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
-
 <h3 align="left">About me:</h3>
 
-###
-
 <p align="left">I am currently a student of computer engineering. I practice problem-solving skills on LeetCode, HackerRank and CTF challenges. I am a total beginner. I would love to learn more from experienced programmers!</p>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img height="209" src="https://cdna.artstation.com/p/assets/images/images/030/828/406/original/tj-austria-kj.gif?1601786671"  />
 </div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/aisha_urbanoo/" target="_blank">
@@ -53,34 +37,18 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <h3 align="left">I'm currently:</h3>
 
-###
-
-<h5 align="left">📘Creating a movie app using React Native<br>📕Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!<br>📙Working on my portfolio<br>📗Working on our Capstone project</h5>
-
-###
+<h5 align="left">Creating a movie app using React Native<br>Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!<br>Working on my portfolio<br>Working on our Capstone project</h5>
 
 <h3 align="left">Some facts about me:</h3>
 
-<br clear="both">
-
-<h5 align="left">🥈 I play a lot of games<br>🥈 I draw too<br>🥈 I love playing badminton</h5>
-
-###
+<h5 align="left">I play a lot of games<br>I draw too<br>I love playing badminton</h5>
 
 <img align="right" height="250" src="https://media.giphy.com/media/jubLJwkWhtqmOA2bJg/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BweepBwop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=BweepBwop&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
