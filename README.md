@@ -38,17 +38,24 @@
 </div>
 
 <h3 align="left">I'm currently:</h3>
-
-<h5 align="left">Creating a movie app using React Native<br>Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!<br>Working on my portfolio<br>Working on our Capstone project</h5>
+  <li>Creating a movie app using React Native</li>
+  <li>Warming up myself to C again by coding a Hardware POS system, and Periodic table Quiz Game!</li>
+  <li>Working on my portfolio</li> 
+  <li>Working on our Capstone project</li> 
 
 <h3 align="left">Some facts about me:</h3>
 
-<h5 align="left">I play a lot of games<br>I draw too<br>I love playing badminton</h5>
+<ul align="left">
+  <li>I play a lot of games</li>
+  <li>I draw too</li>
+  <li>I love playing badminton</li>
+</ul>
 
-<img align="right" height="250" src="https://media.giphy.com/media/jubLJwkWhtqmOA2bJg/giphy.gif"  />
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BweepBwop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=BweepBwop&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=BweepBwop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=BweepBwop&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BweepBwop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+  <img height="250" src="https://media.giphy.com/media/jubLJwkWhtqmOA2bJg/giphy.gif"  />
 </div>
