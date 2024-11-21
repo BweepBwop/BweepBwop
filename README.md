@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">I am a complete beginner, and I will do my best to commit to programming once a day even if I have a busy schedule.</p>
+<p align="left">I am a complete beginner in programming, and I will do my best to commit to coding once a day even if I am not that good or fast at learning.</p>
 
 ###
 
@@ -63,24 +63,22 @@
 
 <div align="center">
   <a href="https://www.instagram.com/aisha_urbanoo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DDA0DD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="akmurbanoshs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DDA0DD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/urbano-aisha-kelsey-m-83a3b1244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DDA0DD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://dribbble.com/bwaap" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=DDA0DD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/BweepBwop/BweepBwop/output/snake.svg" alt="Snake animation" />
 
 ###
 
