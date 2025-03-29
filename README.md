@@ -44,12 +44,6 @@
 
 <p align="left">I am a complete beginner in programming, and I will do my best to commit to coding once a day even if I am not that good or fast at learning.</p>
 
-###
-
-<p align="left">I am currently working on:<br><br>📘Working on my portfolio using 3js and Spline<br>📕Movie app using React Native<br>📙Scraping Rental places in Cebu using druid<br>📗Free Book PDF scrapper using Python</p>
-
-###
-
 <div align="left">
 </div>
 
